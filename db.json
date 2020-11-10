@@ -42,9 +42,65 @@
             }
           }
     ],
-  "profile": {
-    "name": "typicode"
-  },
+  "dashboard": [
+    {
+      "ContractSigingAuthority": {
+        "PersonalDetails": {
+          "PrimaryFullName": "Rod Sterling",
+          "CompanyName": 'MeatsRUs',
+          "CompanyTitle": 'Associate Meat Buyer',
+          "CompanyAddress": "123 Roast Street",
+          "PhoneNumber": "3453445547",
+          "Email": "rsterling@meatsrus.com",
+          "City": 'Kanas',
+          "ZipCode": 1234,
+          "State": 'Kanas'
+        },
+        "PaymentContact": 'Yes',
+        "Notification": 'false'
+      },
+      "OnboardingManager": {
+        "PersonalDetails": {
+          "PrimaryFullName": "Jon Snow",
+          "CompanyName": 'MeatsRUs',
+          "CompanyTitle": "Associate Meat Buyer",
+          "CompanyAddress": "123 Roast Street",
+          "PhoneNumber": "00808403242",
+          "Email": "jonsnow@gmail.com",
+          "City": 'Kanas',
+          "ZipCode": 1234,
+          "State": 'Kanas'
+        },
+        "PaymentContact": 'Yes',
+        "Notification": 'false'
+      },
+      "OpenOnboardtaskCount": 5,
+      "OpenOffboardtaskCount": 3,
+      "ReachPercent": 88,
+      "OrganizationOnboardTask": 2,
+      "ProgramsOnboardTask": 0,
+      "LocationOnboardTask": 0,
+      "HierarchyOnboardTask": 0,
+      "PendingeLopsOnboardTask": [
+        {
+          "eLopsTitle": "Health Trust eLops",
+          "eLopsDescription": " Food Procuremnet"
+        },
+        {
+          "eLopsTitle": "Health Trust eLops",
+          "eLopsDescription": " Food Procuremnet"
+        }
+      ],
+      "PendingeLopsCount": 2,
+      "PendingUCAsOnboardTask": [
+        {
+          "UCAsTitle": "Health Trust eLops",
+          "UCAsDescription": " Food Procuremnet"
+        }
+      ],
+      "PendingeUCAsCount": 1
+    }
+  ],
    "val": {
     "name": "awesome"
   }
