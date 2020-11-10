@@ -47,29 +47,29 @@
       "ContractSigingAuthority": {
         "PersonalDetails": {
           "PrimaryFullName": "Rod Sterling",
-          "CompanyName": 'MeatsRUs',
-          "CompanyTitle": 'Associate Meat Buyer',
+          "CompanyName": "MeatsRUs",
+          "CompanyTitle": "Associate Meat Buyer",
           "CompanyAddress": "123 Roast Street",
           "PhoneNumber": "3453445547",
           "Email": "rsterling@meatsrus.com",
-          "City": 'Kanas',
+          "City": "Kanas",
           "ZipCode": 1234,
-          "State": 'Kanas'
+          "State": "Kanas"
         },
-        "PaymentContact": 'Yes',
+        "PaymentContact": "Yes",
         "Notification": 'false'
       },
       "OnboardingManager": {
         "PersonalDetails": {
           "PrimaryFullName": "Jon Snow",
-          "CompanyName": 'MeatsRUs',
+          "CompanyName": "MeatsRUs",
           "CompanyTitle": "Associate Meat Buyer",
           "CompanyAddress": "123 Roast Street",
           "PhoneNumber": "00808403242",
           "Email": "jonsnow@gmail.com",
-          "City": 'Kanas',
+          "City": "Kanas",
           "ZipCode": 1234,
-          "State": 'Kanas'
+          "State": "Kanas"
         },
         "PaymentContact": 'Yes',
         "Notification": 'false'
