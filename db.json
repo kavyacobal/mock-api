@@ -57,7 +57,7 @@
           "State": "Kanas"
         },
         "PaymentContact": "Yes",
-        "Notification": 'false'
+        "Notification": "false"
       },
       "OnboardingManager": {
         "PersonalDetails": {
@@ -71,8 +71,8 @@
           "ZipCode": 1234,
           "State": "Kanas"
         },
-        "PaymentContact": 'Yes',
-        "Notification": 'false'
+        "PaymentContact": "Yes",
+        "Notification": "false"
       },
       "OpenOnboardtaskCount": 5,
       "OpenOffboardtaskCount": 3,
