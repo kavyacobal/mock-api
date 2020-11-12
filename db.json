@@ -78,10 +78,14 @@
       "OpenOffboardtaskCount": 3,
       "ReachPercent": 88,
       "OrganizationOnboardTask": 2,
-      "ProgramsOnboardTask": 0,
-      "LocationOnboardTask": 0,
-      "HierarchyOnboardTask": 0,
+      "ProgramsOnboardTask": 22,
+      "LocationOnboardTask": 22,
+      "HierarchyOnboardTask": 1,
       "PendingeLopsOnboardTask": [
+        {
+          "eLopsTitle": "Health Trust eLops",
+          "eLopsDescription": " Food Procuremnet"
+        },
         {
           "eLopsTitle": "Health Trust eLops",
           "eLopsDescription": " Food Procuremnet"
@@ -91,7 +95,7 @@
           "eLopsDescription": " Food Procuremnet"
         }
       ],
-      "PendingeLopsCount": 2,
+      "PendingeLopsCount": 1,
       "PendingUCAsOnboardTask": [
         {
           "UCAsTitle": "Health Trust eLops",
