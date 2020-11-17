@@ -74,36 +74,47 @@
         "PaymentContact": "Yes",
         "Notification": "false"
       },
-      "OpenOnboardtaskCount": 5,
-      "OpenOffboardtaskCount": 3,
-      "ReachPercent": 88,
-      "OrganizationOnboardTask": 2,
-      "ProgramsOnboardTask": 22,
-      "LocationOnboardTask": 22,
-      "HierarchyOnboardTask": 1,
-      "PendingeLopsOnboardTask": [
-        {
-          "eLopsTitle": "Health Trust eLops",
-          "eLopsDescription": " Food Procuremnet"
-        },
-        {
-          "eLopsTitle": "Health Trust eLops",
-          "eLopsDescription": " Food Procuremnet"
-        },
-        {
-          "eLopsTitle": "Health Trust eLops",
-          "eLopsDescription": " Food Procuremnet"
-        }
-      ],
-      "PendingeLopsCount": 1,
-      "PendingUCAsOnboardTask": [
-         {
-          "UCAsTitle": "Health Trust eLops",
-          "UCAsDescription": " Food Procuremnet"
-        }
-      ],
-      "PendingeUCAsCount": 1
-    }
+      "openOnboardtaskCount": 5,
+        "openOffboardtaskCount": 3,
+        "reachPercent": 88,
+        "contactIdentified": 1,
+        "chosenPrograms": 22,
+        "pendingPrograms": 2,
+        "chosenLocations": 0,
+        "pendingLocations": 4,
+        "pendingProgramsOnboardTask": [
+            {
+                "programTitle": "Simon Seafood"
+            },
+            {
+                "programTitle": "B&O Foods"
+            }
+        ],
+        "pendingLocationsOnboardTask": [
+            {
+                "locationTitle": "East Kansas City X"
+            },
+            {
+                "locationTitle": "North Kansas City X "
+            }
+        ],
+        "chosenHierarchyOnboardTask": 0,
+        "pendingeLopsOnboardTask": [
+            {
+                "eLopsTitle": "Health Trust eLops",
+                "eLopsDescription": " Food Procuremnet"
+            }
+        ],
+        "pendingeLopsCount": 1,
+        "completedeLopsCount": 3,
+        "pendingUCAsOnboardTask": [
+            {
+                "ucAsTitle": "Health Trust eLops",
+                "ucAsDescription": " Food Procuremnet"
+            }
+        ],
+        "pendingeUCAsCount": 1,
+        "completedUCAsCount": 1
   ],
    "val": {
     "name": "awesome"
