@@ -115,7 +115,8 @@
         }
     }
 ],
-   "countries": [ 
+   "countries": [
+     {
     "Djibouti",
     "South Africa",
     "Ethiopia",
@@ -258,6 +259,7 @@
     "Vietnam",
     "Macao SAR",
     "Taiwan"
+     }
    ],
    "val": [ ]
 }
