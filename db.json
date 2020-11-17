@@ -50,7 +50,7 @@
         "contactIdentified": 1,
         "chosenPrograms": 22,
         "pendingPrograms": 2,
-        "chosenLocations": 0,
+        "chosenLocations": 22,
         "pendingLocations": 4,
         "pendingProgramsOnboardTask": [
             {
@@ -68,7 +68,7 @@
                 "locationTitle": "North Kansas City X "
             }
         ],
-        "chosenHierarchyOnboardTask": 0,
+        "chosenHierarchyOnboardTask": 1,
         "pendingeLopsOnboardTask": [
             {
                 "eLopsTitle": "Health Trust eLops",
