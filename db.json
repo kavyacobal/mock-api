@@ -44,37 +44,7 @@
     ],
   "dashboard": [
     {
-      "ContractSigingAuthority": {
-        "PersonalDetails": {
-          "PrimaryFullName": "Rod Sterling",
-          "CompanyName": "MeatsRUs",
-          "CompanyTitle": "Associate Meat Buyer",
-          "CompanyAddress": "123 Roast Street",
-          "PhoneNumber": "3453445547",
-          "Email": "rsterling@meatsrus.com",
-          "City": "Kanas",
-          "ZipCode": 1234,
-          "State": "Kanas"
-        },
-        "PaymentContact": "Yes",
-        "Notification": "false"
-      },
-      "OnboardingManager": {
-        "PersonalDetails": {
-          "PrimaryFullName": "Jon Snow",
-          "CompanyName": "MeatsRUs",
-          "CompanyTitle": "Associate Meat Buyer",
-          "CompanyAddress": "123 Roast Street",
-          "PhoneNumber": "00808403242",
-          "Email": "jonsnow@gmail.com",
-          "City": "Kanas",
-          "ZipCode": 1234,
-          "State": "Kanas"
-        },
-        "PaymentContact": "Yes",
-        "Notification": "false"
-      },
-      "openOnboardtaskCount": 5,
+        "openOnboardtaskCount": 5,
         "openOffboardtaskCount": 3,
         "reachPercent": 88,
         "contactIdentified": 1,
@@ -115,7 +85,36 @@
         ],
         "pendingeUCAsCount": 1,
         "completedUCAsCount": 1,
-  ],
+        "contractSigingAuthority": {
+            "primaryFullName": "Signing Authority",
+            "companyName": null,
+            "companyTitle": null,
+            "companyAddress": "Signing comp address",
+            "phoneNumber": "3453445547",
+            "email": "Signing@gmail.com",
+            "city": null,
+            "zipCode": null,
+            "state": null,
+            "country": null,
+            "paymentContact": true,
+            "notification": false
+        },
+        "onboardingManager": {
+            "primaryFullName": "manager",
+            "companyName": null,
+            "companyTitle": null,
+            "companyAddress": "Signing comp address",
+            "phoneNumber": "00808403242",
+            "email": "manager@gmail.com",
+            "city": null,
+            "zipCode": null,
+            "state": null,
+            "country": null,
+            "paymentContact": true,
+            "notification": false
+        }
+    }
+],
    "val": {
     "name": "awesome"
   }
