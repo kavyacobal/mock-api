@@ -175,5 +175,12 @@
     "Michigan",
     "Minnesota"
    ],
+   "user": [
+     "username": "jguber",
+    "firstName": "Jennifer",
+    "lastName": "Guber",
+    "role": "admin",
+    "team": ""
+   ],
    "val": [ ]
 }
