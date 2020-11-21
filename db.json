@@ -1,6 +1,22 @@
 {
   "contact":[
-       {"uniqueId":"53930e85-ae2b-eb11-a813-000d3a310f17","mainContact":{"secondaryFullName":"Nagarajan Nagarajan","contactId":"2f95e55a-d019-eb11-a813-000d3a5c0e3c","uploadImage":null,"paymentContact":true,"generalCommunication":false,"priceRelease":true,"redAlert":true,"primaryFullName":null,"companyName":null,"companyTitle":"manager","companyAddress":null,"phoneNumber":null,"email":"nag@virtusa.com","city":"chennai","zipCode":"600095","state":null,"country":null},"escalationContact":null}
+       {"uniqueId":"53930e85-ae2b-eb11-a813-000d3a310f17","mainContact":{"secondaryFullName":"Nagarajan Nagarajan","contactId":"2f95e55a-d019-eb11-a813-000d3a5c0e3c","uploadImage":null,"paymentContact":true,"generalCommunication":false,"priceRelease":true,"redAlert":true,"primaryFullName":null,"companyName":null,"companyTitle":"manager","companyAddress":null,"phoneNumber":null,"email":"nag@virtusa.com","city":"chennai","zipCode":"600095","state":null,"country":null},"escalationContact":{"secondaryFullName": "Nagarajan Nagarajan",
+      "contactId": "2f95e55a-d019-eb11-a813-000d3a5c0e3c",
+      "uploadImage": null,
+      "paymentContact": true,
+      "generalCommunication": false,
+      "priceRelease": true,
+      "redAlert": true,
+      "primaryFullName": null,
+      "companyName": null,
+      "companyTitle": "manager",
+      "companyAddress": null,
+      "phoneNumber": null,
+      "email": "nag@virtusa.com",
+      "city": "chennai",
+      "zipCode": "600095",
+      "state": null,
+      "country": null}}
     ],
   "dashboard": [
     {
