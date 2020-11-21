@@ -175,13 +175,12 @@
     "Michigan",
     "Minnesota"
    ],
-   "user": [
-     {
+   "user": {
      "username": "jguber",
     "firstName": "Jennifer",
     "lastName": "Guber",
     "role": "mem",
     "team": ""
      }
-   ]
+   
 }
