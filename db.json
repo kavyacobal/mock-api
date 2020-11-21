@@ -1,5 +1,6 @@
 {
-  "contact": {
+  "contact": [
+            {
             "mainContact": {
               "secondaryFullName": null,
               "reEnterPhoneNumber": "524 465-0574",
@@ -39,7 +40,8 @@
               "state": "kansas",
               "reEnterEmail": "rsterling@meatsrus.com"
             }
-          },
+          }
+        ],
   "dashboard": [
     {
         "openOnboardtaskCount": 5,
