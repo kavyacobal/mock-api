@@ -1,7 +1,7 @@
 {
   "contact":[
         {
-            "MainContact": {
+            "mainContact": {
               "secondaryFullName": null,
               "reEnterPhoneNumber": "524 465-0574",
               "uploadImage": null,
@@ -21,7 +21,7 @@
               "country": "US",
               "reEnterEmail": "jgruber@meastsrus.com"
             },
-            "EscalationContact": {
+            "escalationContact": {
               "secondaryFullName":"Rod Sterling",
               "reEnterPhoneNumber": "243 264-0895",
               "pploadImage": null,
