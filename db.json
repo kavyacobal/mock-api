@@ -1,5 +1,5 @@
 {
-  "contact": [
+  "contact": 
             {
             "mainContact": {
               "secondaryFullName": null,
@@ -40,8 +40,7 @@
               "state": "kansas",
               "reEnterEmail": "rsterling@meatsrus.com"
             }
-          }
-        ],
+          },
   "dashboard": [
     {
         "openOnboardtaskCount": 5,
