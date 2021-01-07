@@ -3,6 +3,7 @@
             {
             "mainContact": {
               "secondaryFullName": null,
+               "MemberAdvantage": true, 
               "reEnterPhoneNumber": "524 465-0574",
               "uploadImage": null,
               "paymentContact": true,
