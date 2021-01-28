@@ -3,8 +3,7 @@
             {
               "uniqueId":"3fruyt746",
             "mainContact": {
-              "secondaryFullName": null,
-               "memberAdvantageOption": true, 
+              "secondaryFullName": null, 
               "reEnterPhoneNumber": "524 465-0574",
               "uploadImage": null,
               "paymentContact": true,
@@ -42,7 +41,11 @@
               "zipCode": "32432",
               "state": "kansas",
               "reEnterEmail": "rsterling@meatsrus.com"
-            }
+            },
+              "memberAdvantageLoc": {
+    "memberAdvantage": "836780001",
+    "accountid": "5faa65ff-bb19-eb11-a813-000d3a5c0e3c"
+  }
           },
   "dashboard": [
     {
