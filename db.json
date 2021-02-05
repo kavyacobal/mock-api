@@ -42,7 +42,7 @@
               "state": "kansas",
               "reEnterEmail": "rsterling@meatsrus.com"
             },
-              "memberAdvantageLoc": null
+              "memberAdvantageLoc": {"memberAdvantage":836780001}
           },
   "dashboard": [
     {
