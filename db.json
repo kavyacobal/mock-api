@@ -20,12 +20,12 @@
               "zipCode": "32432",
               "state": "kansas",
               "country": "US",
-              "reEnterEmail": "jgruber@meastsrus.com",
+              "reEnterEmail": "",
               "contactId":"12233"
             },
             "escalationContact": {
               "secondaryFullName":"Rod Sterling",
-              "reEnterPhoneNumber": "243 264-0895",
+              "reEnterPhoneNumber": "",
               "pploadImage": null,
               "paymentContact": false,
               "generalCommunication": true,
