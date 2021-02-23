@@ -183,8 +183,8 @@
     "lastName": "Guber",
     "role": "admin",
     "team": "Lorem Ipsum Dolor",
-    "teamDescription":"Lorem Ipsum Dolor",
-     "profilePic":"https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
+    "teamDescription": "Lorem Ipsum Dolor",
+     "profilePic": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
      }
    
 }
