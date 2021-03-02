@@ -184,6 +184,7 @@
     "role": "admin",
     "team": "Lorem Ipsum Dolor",
     "teamDescription": "Lorem Ipsum Dolor",
+     "emailId":"abc@gmail.com",
      "profilePic": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
      }
    
