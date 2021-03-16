@@ -1,7 +1,7 @@
 {
   "contact": 
             {
-              "uniqueId":null,
+              "uniqueId":"1234567",
             "mainContact": {
               "secondaryFullName": null, 
               "reEnterPhoneNumber": "",
