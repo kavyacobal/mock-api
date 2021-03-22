@@ -2,7 +2,27 @@
   "contact": 
             {
               "uniqueId":"123",
-            "mainContact": null,
+            "mainContact": {
+              "secondaryFullName": null, 
+              "reEnterPhoneNumber": "",
+              "uploadImage": null,
+              "paymentContact": true,
+              "generalCommunication": false,
+              "priceRelease": false,
+              "redAlert": false,
+              "primaryFullName": "Jennifer Gruber",
+              "companyName": "MeatsRUs",
+              "companyTitle": "Sr.Food Buyer",
+              "companyAddress": "123 Salsbury",
+              "phoneNumber": "524 465-0574",
+              "email": "jgruber@meastsrus.com",
+              "city": " kansas",
+              "zipCode": "32432",
+              "state": "Kansas",
+              "country": "US",
+              "reEnterEmail": "",
+              "contactId":"12233"
+            },
             "escalationContact": null,
               "memberAdvantageLoc": {
                 "memberAdvantage":"836780000",
