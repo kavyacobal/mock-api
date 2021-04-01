@@ -25,7 +25,7 @@
             },
             "escalationContact": null,
               "memberAdvantageLoc": {
-                "memberAdvantage":"836780000",
+                "memberAdvantage":true,
                 "accountid":"74c88f23-2d62-eb11-bb23-000d3a33f304"
               }
           },
