@@ -19,7 +19,7 @@
               "city": " kansas",
               "zipCode": "32432",
               "state": "Kansas",
-              "country": "US",
+              "country": null,
               "reEnterEmail": "",
               "contactId":"12233"
             },
