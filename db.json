@@ -56,12 +56,7 @@
             }
         ],
         "chosenHierarchyOnboardTask": 1,
-        "pendingeLopsOnboardTask": [
-            {
-                "eLopsTitle": "Health Trust eLops",
-                "eLopsDescription": " Food Procuremnet"
-            }
-        ],
+        "pendingeLopsOnboardTask":null,
         "pendingeLopsCount": 1,
         "completedeLopsCount": 3,
         "pendingUCAsOnboardTask": [
