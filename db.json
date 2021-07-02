@@ -62,8 +62,8 @@
                 "eLopsDescription": " Food Procuremnet"
             }
         ],
-        "pendingeLopsCount": 6,
-        "completedeLopsCount": 1,
+        "pendingeLopsCount": 0,
+        "completedeLopsCount": 0,
         "pendingUCAsOnboardTask": [
             {
                 "ucAsTitle": "Health Trust eLops",
