@@ -23,7 +23,25 @@
               "reEnterEmail": "",
               "contactId":"12233"
             },
-            "escalationContact": null,
+            "escalationContact": {
+              "primaryFullName": null,
+              "companyName": null,
+              "companyTitle": null,
+              "companyAddress": null,
+              "phoneNumber": null,
+              "email": null,
+              "city": null,
+              "zipCode": null,
+              "state": null,
+              "country": null,
+              "secondaryFullName": null,
+              "contactId": "",
+              "uploadImage": null,
+              "paymentContact": null,
+              "generalCommunication": null,
+              "priceRelease": null,
+              "redAlert": null
+            },
               "memberAdvantageLoc": {
                 "memberAdvantage":false,
                 "accountid":"74c88f23-2d62-eb11-bb23-000d3a33f304"
