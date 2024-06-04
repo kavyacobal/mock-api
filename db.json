@@ -1,52 +1,102 @@
 {
   "contact": 
             {
-              "uniqueId":"123",
-            "mainContact": {
-              "secondaryFullName": null, 
-              "reEnterPhoneNumber": "",
-              "uploadImage": null,
-              "paymentContact": true,
-              "generalCommunication": false,
-              "priceRelease": false,
-              "redAlert": false,
-              "primaryFullName": "Jennifer Gruber",
-              "companyName": "MeatsRUs",
-              "companyTitle": "Sr.Food Buyer",
-              "companyAddress": "123 Salsbury",
-              "phoneNumber": "524 465-0574",
-              "email": "jgruber@meastsrus.com",
-              "city": null,
-              "zipCode": "32432",
-              "state": null,
-              "country": null,
-              "reEnterEmail": "",
-              "contactId":"12233"
-            },
-            "escalationContact": {
-              "primaryFullName": null,
-              "companyName": null,
-              "companyTitle": null,
-              "companyAddress": null,
-              "phoneNumber": null,
-              "email": null,
-              "city": null,
-              "zipCode": null,
-              "state": null,
-              "country": null,
-              "secondaryFullName": null,
-              "contactId": "",
-              "uploadImage": null,
-              "paymentContact": null,
-              "generalCommunication": null,
-              "priceRelease": null,
-              "redAlert": null
-            },
-              "memberAdvantageLoc": {
-                "memberAdvantage":false,
-                "accountid":"74c88f23-2d62-eb11-bb23-000d3a33f304"
-              }
-          },
+  "BUTTONS": {
+    "back": "Back",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "save":"Save",
+    "close":"Close",
+    "addPatient":"Add Patient",
+    "remove":"Remove",
+    "addCarePartner":"Add Care Partner",
+    "leave":"Leave"
+  },
+  "HELPER_TEXT":
+  {
+    "specialCharacterFn":"Names cannot contain special characters or numbers",
+    "specialCharacterLn":"Lastnames cannot contain special characters or numbers",
+    "minFirstName": "Names must contain at least 2 letters",
+    "minLastName": "Lastnames must contain at least 2 letters",
+    "validNationalInsurance":"Enter a valid national insurance number",
+    "validHealthCardNumber":"Enter a valid health card number",
+    "minStreet":"Street must contain min 3 characters",
+    "minCity":"City must contain min 2 characters",
+    "minRegion":"Region must contain min 2 characters",
+    "minZipCode":"Postal code must contain min 2 characters",
+    "specialCharacterCity":"City cannot contain special characters",
+    "specialCharacterRegion":"Region cannot contain special characters",
+    "validEmail":"Enter the email in the format ‘email@example.com’",
+    "validMobileNumber":"Phone number can only contain '+' and numbers",
+    "minPhone":"Phone number must contain 7 numbers",
+    "minMobile":"Phone number must contain 9 numbers"
+  },
+  "DIALOG_MESSAGE":{
+    "unSavedChanges":" Unsaved Changes",
+    "unSavedModalText1":"There are unsaved changes and the data will get lost.",
+    "unSavedModalText2":"Are you want to leave"
+  },
+  "PATIENT_INFO":
+  {
+    "patientInformation":"Patient Information",
+    "demographic":"Demographic",
+    "firstName":"First Name",
+    "lastName":"Last Name",
+    "dateOfBirth": "Date Of Birth",
+    "healthCardNumber": "Health Card Number",
+    "socialSecurityNumber":"Social Security Number",
+    "male":"Male",
+    "female":"Female",
+    "others":"Others",
+    "assignedClinic":"Assigned Clinic",
+    "clinic":"Clinic",
+    "gender":"Gender"
+
+  },
+  "PATIENT_CONTACT":{
+    "contact":"Contact",
+    "contacts":"Contacts",
+    "primaryAddress":"Primary Address",
+    "secondaryAddress":"Secondary Address",
+    "street":"Street",
+    "carePartnerDetails":"To register a care partner fill at least one contact detail (phone number or e-mail)",
+    "relationToPatient":"Relation to patient",
+    "selectCountry":"Select Country",
+    "mobileNumber": "Mobile phone number",
+    "phoneNumber":"Phone number",
+    "additionalPhoneNumber":"Additional Phone Number",
+    "email":"Email",
+    "city":"City",
+    "postalCode":"Postal Code",
+    "region":"Region",
+    "carePartner":"Care partner",
+    "addAddress":"Add address",
+    "additionalInformation":"Additional information",
+    "careGiver":"Care Giver",
+    "relative":"Relative",
+    "friend":"Friend",
+    "partner":"Partner"
+  },
+  "PATIENT_SUMMARY":{
+    "summary":"Summary"
+  },
+  "PATIENT_DETAILS":{
+    "demographics" : "Demographics",
+    "medicalStatus": "Medical status",
+    "carePartners" : "Care partners",
+    "exceptionRecordSettings": "Exception recording settings",
+    "secondaryPhone" : "Secondary phone number",
+    "email" : "E-mail",
+    "noCarePartner": "No care partner is currently present.",
+    "contactCustomerCare": "To add a care partner, please contact customer care.",
+    "from": "From",
+    "current": "Current",
+    "dataMissing": "Required data is missing",
+    "contactCustomerService": "Contact the customer service to complete patient's profile and enable the creation of prescriptions.",
+    "relationshipToPatient":"Relationship to patient",
+    "reason": "Reason"
+  }
+},
   "dashboard": [
     {
         "openOnboardtaskCount": 5,
