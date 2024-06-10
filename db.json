@@ -93,7 +93,8 @@
     "dataMissing": "Required data is missing",
     "contactCustomerService": "Contact the customer service to complete patient's profile and enable the creation of prescriptions.",
     "relationshipToPatient":"Relationship to patient",
-    "reason": "Reason"
+    "reason": "Reason",
+  "intlDateTime": "On the {{val, datetime}}",
   }
 },
   "dashboard": [
