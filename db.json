@@ -94,7 +94,7 @@
     "contactCustomerService": "Contact the customer service to complete patient's profile and enable the creation of prescriptions.",
     "relationshipToPatient":"Relationship to patient",
     "reason": "Reason",
-  "intlDateTime": "{{val, datetime}}"
+  "intlDateTime": "On the {{val, datetime}}"
   }
 },
   "dashboard": [
